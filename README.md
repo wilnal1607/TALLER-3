@@ -1,4 +1,4 @@
-# TALLER-3
+# REGRESION LINEAL
 
 Integrante 1: Wilson Pinzón
 
